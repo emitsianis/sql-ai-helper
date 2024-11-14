@@ -63,4 +63,3 @@ agent_executor = AgentExecutor(
 )
 
 agent_executor("How many orders are there?")
-agent_executor("Repeat the same for users.")
